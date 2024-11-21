@@ -18,5 +18,5 @@ I'm **Pooja Nagabhairu**, an aspiring Data Scientist with a Master's in Computer
 - **[EDA on Chronic Disease Dataset](#)**: Performed exploratory data analysis to identify patterns and trends in chronic disease prevalence.  
 
 ## Contact  
-- [LinkedIn]:https://www.linkedin.com/in/pooja-nagabhairu/  
-- [Email]:poojanagabhairu1818@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/pooja-nagabhairu/)  
+- [Email](mailto:poojanagabhairu1818@gmail.com)  
