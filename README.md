@@ -1,6 +1,5 @@
 # Hi there! 👋  
 I'm **Pooja Nagabhairu**, an aspiring Data Scientist with a Master's in Computer Science.  
-
 ## Skills  
 - **Programming**: Python, R, SQL  
 - **Machine Learning**: scikit-learn, TensorFlow, PyTorch  
@@ -12,7 +11,6 @@ I'm **Pooja Nagabhairu**, an aspiring Data Scientist with a Master's in Computer
 - **Cloud Platforms**: Azure  
 - **Version Control**: Git, GitHub  
 - **Other Tools**: Jupyter Notebook, Google Colab, Power BI  
-
 ## Projects  
 - **[Fake News Detection](#)**: Built a classifier using LSTM to identify fake news.  
 - **[Pneumonia Detection](#)**: CNN model to classify chest X-rays.  
